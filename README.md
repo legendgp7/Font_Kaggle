@@ -1,7 +1,7 @@
 # ECE4200_Machine Learning Kaggle_Top2 Model
 ## Kaggle Leaderboard Rank: TOP 2  
 Kaggle Leaderboard: https://www.kaggle.com/c/font-recognition/leaderboard  
-  ![image](https://github.com/fl427/cornell-web-application/blob/master/Demo/0.jpg)
+  ![image](https://github.com/legendgp7/Font_Kaggle/blob/main/readme_img/Rank.png)
 ## Competition Description and Dataset
 Overview: https://www.kaggle.com/c/font-recognition/overview  
 Dataset: https://www.kaggle.com/c/font-recognition/data
