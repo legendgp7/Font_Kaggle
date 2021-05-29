@@ -6,9 +6,11 @@ Kaggle Leaderboard: https://www.kaggle.com/c/font-recognition/leaderboard
 Overview: https://www.kaggle.com/c/font-recognition/overview  
 Dataset: https://www.kaggle.com/c/font-recognition/data
 
-## Guide
-The design details and further development and deployment methods are disccussed in this report:  
-https://github.com/fl427/cornell-web-application/blob/master/ECE%20MEng%20Design%20Final%20Report.pdf
+## Jupyter Notebook & Short Report
+The Jupyter notebook for the best model with the optimal data augment method is shown below:  
+https://github.com/legendgp7/Font_Kaggle/blob/main/ECE4200_best_model_pg477.ipynb  
+More details and corresponding discussion are available in the following short report:  
+https://github.com/legendgp7/Font_Kaggle/blob/main/ECE4200_report_pg477.pdf
 
 ## Toolkits and Deployment
 
