@@ -15,7 +15,7 @@ https://github.com/legendgp7/Font_Kaggle/blob/main/ECE4200_report_pg477.pdf
 ## Toolkits and Deployment
 
 - Model:
-  - [x] XGBoost (best model - Accuracy: 94.88%)
+  - [x] **XGBoost (best model - Accuracy: 94.88%)**
   - [x] Shallow Convolution Neural Network (Accuracy: 73.56%)
   - [x] 50-layer Residual Network (Accuracy: 83.73%)
   - [x] Mutiple Layer Proceptron (Accuracy: 63.82%)
@@ -24,7 +24,7 @@ https://github.com/legendgp7/Font_Kaggle/blob/main/ECE4200_report_pg477.pdf
   - [x] Naive Bayes (Accuracy: 33.02%)
 
 - Data Augment :
-  - [x] Rotation + flip + contrast adjustment (best combination - Accuracy for XGBoost: 94.88%)
+  - [x] **Rotation + flip + contrast adjustment (best combination - Accuracy for XGBoost: 94.88%)**
   - [x] No data augmentation (baseline - Accuracy for XGBoost: 92.64%)
   - [x] Rotation + flip (Accuracy for XGBoost: 94.36%)
   - [x] Gaussian (Accuracy for XGBoost: 94.20%)
