@@ -15,7 +15,7 @@ https://github.com/legendgp7/Font_Kaggle/blob/main/ECE4200_report_pg477.pdf
 ## Toolkits and Deployment
 
 - Model:
-  - [ ] XGBoost (best model - Accuracy: 94.88%)
+  - [xx] XGBoost (best model - Accuracy: 94.88%)
   - [x] Shallow Convolution Neural Network (Accuracy: 73.56%)
   - [x] 50-layer Residual Network (Accuracy: 83.73%)
   - [x] Mutiple Layer Proceptron (Accuracy: 63.82%)
