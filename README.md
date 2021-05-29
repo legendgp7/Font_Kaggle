@@ -1,9 +1,9 @@
 # ECE4200_Machine Learning Kaggle_Top2 Model
 ## Kaggle Leaderboard Rank #2  
 Kaggle Leaderboard: https://www.kaggle.com/c/font-recognition/leaderboard
-
+  ![image](https://github.com/fl427/cornell-web-application/blob/master/Demo/0.jpg)
 ## Competition Description and Dataset
-Overview: https://www.kaggle.com/c/font-recognition/overview
+Overview: https://www.kaggle.com/c/font-recognition/overview  
 Dataset: https://www.kaggle.com/c/font-recognition/data
 
 ## Guide
@@ -30,8 +30,4 @@ https://github.com/fl427/cornell-web-application/blob/master/ECE%20MEng%20Design
   - [x] Rotation + flip + Gaussian (Accuracy for XGBoost: 94.74%)
   - [x] Contrast adjustment + Gaussian (Accuracy for XGBoost: 94.68%)
   - [x] Rotation + flip + Gaussian + contrast adjustment (Accuracy for XGBoost: 94.81%)
-
-
-## Demo
-### User Authentication:
-  ![image](https://github.com/fl427/cornell-web-application/blob/master/Demo/0.jpg)
+  
