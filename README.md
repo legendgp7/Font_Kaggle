@@ -1,5 +1,5 @@
 # ECE4200_Machine Learning Kaggle_Top2 Model
-Rank #2 
+Rank #2  
 https://www.kaggle.com/c/font-recognition/leaderboard
 # cornell-web-application
 
