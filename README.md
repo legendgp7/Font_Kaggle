@@ -9,7 +9,7 @@ Dataset: https://www.kaggle.com/c/font-recognition/data
 
 ## Jupyter Notebook & Short Report
 The Jupyter notebook for the best model with the optimal data augment method is shown below:  
-https://github.com/legendgp7/Font_Kaggle/blob/main/ECE4200_best_model_pg477.ipynb  
+https://github.com/legendgp7/Font_Kaggle/blob/main/ECE4200_best_model_pg477.ipynb    
 More details and corresponding discussion are available in the following short report:  
 https://github.com/legendgp7/Font_Kaggle/blob/main/ECE4200_report_pg477.pdf
 
